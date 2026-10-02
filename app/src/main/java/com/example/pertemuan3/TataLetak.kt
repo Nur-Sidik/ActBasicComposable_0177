@@ -83,5 +83,17 @@ fun TataletakRowColumn(modifier: Modifier) {
         Column() {
             Text(text = "Komponen1Kolom1")
             Text(text = "Komponen2Kolom1")
+            Text(text = "Komponen3Kolom1")
+            Text(text = "Komponen4Kolom1")
+            Text(text = "Komponen5Kolom1")
+        }
+        //kolom 2
+        Column() {
+            Text(text = "Komponen1Kolom2")
+            Text(text = "Komponen2Kolom2")
+            Text(text = "Komponen3Kolom2")
+            Text(text = "Komponen4Kolom2")
+            Text(text = "Komponen5Kolom2")
+        }
     }
 }
