@@ -27,6 +27,9 @@ fun TataletakRow(modifier: Modifier) {
         horizontalArrangement = Arrangement.SpaceEvenly){
         Text(text = "Komponen1")
         Text(text = "Komponen2")
+        Text(text = "Komponen3")
+        Text(text = "Komponen4")
+        Text(text = "Komponen5")
 
     }
 }
